@@ -21,13 +21,19 @@ pip install matplotlib
 
 ### Paths
 
-![alt text](https://github.com/[bunyaminAkcay]/[self-adaptitive-butterfly-optimization-algorithm]/blob/master/results/paths/f1.png?raw=true)
-![alt text](https://github.com/[bunyaminAkcay]/[self-adaptitive-butterfly-optimization-algorithm]/blob/master/results/paths/f2.png?raw=true)
-![alt text](https://github.com/[bunyaminAkcay]/[self-adaptitive-butterfly-optimization-algorithm]/blob/master/results/paths/f3.png?raw=true)
-![alt text](https://github.com/[bunyaminAkcay]/[self-adaptitive-butterfly-optimization-algorithm]/blob/master/results/paths/f4.png?raw=true)
-![alt text](https://github.com/[bunyaminAkcay]/[self-adaptitive-butterfly-optimization-algorithm]/blob/master/results/paths/f5.png?raw=true)
-![alt text](https://github.com/[bunyaminAkcay]/[self-adaptitive-butterfly-optimization-algorithm]/blob/master/results/paths/f6.png?raw=true)
-![alt text](https://github.com/[bunyaminAkcay]/[self-adaptitive-butterfly-optimization-algorithm]/blob/master/results/paths/f7.png?raw=true)
+![alt text](https://github.com/bunyaminAkcay/self-adaptitive-butterfly-optimization-algorithm/blob/master/results/paths/f1.png?raw=true)
+
+![alt text](https://github.com/bunyaminAkcay/self-adaptitive-butterfly-optimization-algorithm/blob/master/results/paths/f2.png?raw=true)
+
+![alt text](https://github.com/bunyaminAkcay/self-adaptitive-butterfly-optimization-algorithm/blob/master/results/paths/f3.png?raw=true)
+
+![alt text](https://github.com/bunyaminAkcay/self-adaptitive-butterfly-optimization-algorithm/blob/master/results/paths/f4.png?raw=true)
+
+![alt text](https://github.com/bunyaminAkcay/self-adaptitive-butterfly-optimization-algorithm/blob/master/results/paths/f5.png?raw=true)
+
+![alt text](https://github.com/bunyaminAkcay/self-adaptitive-butterfly-optimization-algorithm/blob/master/results/paths/f6.png?raw=true)
+
+![alt text](https://github.com/bunyaminAkcay/self-adaptitive-butterfly-optimization-algorithm/blob/master/results/paths/f7.png?raw=true)
 
 ## Issues
 
