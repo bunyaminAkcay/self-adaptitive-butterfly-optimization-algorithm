@@ -13,11 +13,11 @@ pip install matplotlib
 
 ### Convergence Curves
 
-![alt text](https://github.com/[bunyaminAkcay]/[self-adaptitive-butterfly-optimization-algorithm]/blob/master/results/convergeCurves.png?raw=true)
+![alt text](https://github.com/bunyaminAkcay/[self-adaptitive-butterfly-optimization-algorithm]/blob/master/results/convergeCurves.png?raw=true)
 
 ### Box plots
 
-![alt text](https://github.com/[bunyaminAkcay]/[self-adaptitive-butterfly-optimization-algorithm]/blob/master/results/boxes.png?raw=true)
+![alt text](https://github.com/bunyaminAkcay/[self-adaptitive-butterfly-optimization-algorithm]/blob/master/results/boxes.png?raw=true)
 
 ### Paths
 
